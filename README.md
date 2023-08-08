@@ -15,8 +15,8 @@ My research interest lies in Machine Learning.
 
 - Black-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity.
   [[abs](https://jmlr.org/papers/v22/20-611.html)]
-  </br>Bin Gu, Xiyuan Wei, Shangqian Gao, Ziran Xiong, Cheng Deng, Heng Huang.
-  </br>*Journal of Machine Learning Research*, 2021.
+  <br />Bin Gu, Xiyuan Wei, Shangqian Gao, Ziran Xiong, Cheng Deng, Heng Huang.
+  <br />*Journal of Machine Learning Research*, 2021.
 
 
 <script type="text/javascript">
