@@ -1,6 +1,3 @@
-# Xiyuan Wei's Homepage
-
-
 ## About Me
 
 Hello! I am Xiyuan Wei (魏希源). I am a first-year PhD student at Texas A&M University,
