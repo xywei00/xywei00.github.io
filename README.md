@@ -25,11 +25,11 @@ My research interest lies in Machine Learning.
 
 
 <script type="text/javascript">
-    function getLastModifiedMonth() {
-        const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-        var lastModified = new Date(document.lastModified);
-        return (months[lastModified.getMonth()] + " " + lastModified.getFullYear())
-    }
+  function getLastModifiedMonth() {
+    const months = ["Jan.", "Feb.", "Mar.", "Apr.", "May.", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
+    var lastModified = new Date(document.lastModified);
+    return (months[lastModified.getMonth()] + " " + lastModified.getFullYear())
+  }
 </script>
 
 (Last updated: <script type="text/javascript">document.write(getLastModifiedMonth())</script>)
