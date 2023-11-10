@@ -13,10 +13,15 @@ My research interest lies in Machine Learning.
 
 ## Publications
 
+(Asterisk denotes equal contribution)
 - Black-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity.
   [[abs](https://jmlr.org/papers/v22/20-611.html)]
   <br />Bin Gu, Xiyuan Wei, Shangqian Gao, Ziran Xiong, Cheng Deng, Heng Huang.
   <br />*Journal of Machine Learning Research*, 2021.
+- Stability and Generalization of Stochastic Compositional Gradient Descent Algorithms.
+  [[abs](https://arxiv.org/abs/2307.03357v1)]
+  <br />Ming Yang\*, Xiyuan Wei\*, Tianbao Yang, Yiming Ying.
+  <br />*arXiv preprint*, 2023.
 
 
 <script type="text/javascript">
