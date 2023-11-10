@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/231110_portrait.jpeg" width="200"/>
+      <img src="./assets/images/231110_portrait.jpeg" width="200"/>
     </td>
     <td>
       <b>Xiyuan Wei</b>
