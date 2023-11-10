@@ -2,9 +2,6 @@
 ---
 
 @import "jekyll-theme-primer";
-table {
-  border-collapse: collapse;
-}
-table, tr, td {
-  border: none;
+tr, th, td {
+  border: none!important;
 }
