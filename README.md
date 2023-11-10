@@ -1,6 +1,21 @@
+<table>
+  <tr>
+    <td>
+      <img src="./assets/231110_portrait.jpeg" width="200"/>
+    </td>
+    <td>
+      <b>Xiyuan Wei</b>
+      <br />Ph.D. Student
+      <br />Department of Computer Science and Engineering
+      <br />Texas A&M University
+      <br />College Station, Texas
+    </td>
+  </tr>
+</table>
+
 ## About Me
 
-Hello! I am Xiyuan Wei (魏希源). I am a second-year PhD student at Texas A&M University,
+Hello! I am Xiyuan Wei (魏希源). I am a second-year Ph.D. student at Texas A&M University,
 advised by [Prof. Tianbao Yang](http://people.tamu.edu/~tianbao-yang/).
 I received my bachelor degree from Nanjing University of Information Science and Technology in 2022.
 My research interest lies in Machine Learning.
