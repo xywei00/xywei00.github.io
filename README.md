@@ -30,6 +30,11 @@ My research interest lies in Machine Learning.
 ## Publications
 
 (Asterisk denotes equal contribution)
+- Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws
+  [[abs]](https://arxiv.org/abs/2505.06699)
+  [[code]](https://github.com/Optimization-AI/DRRho-CLIP)
+  <br />Xiyuan Wei, Ming Lin, Fanjiang Ye, Fengguang Song, Liangliang Cao, My T. Thai, Tianbao Yang.
+  <br />*Proceedings of the 42nd International Conference on Machine Learning*, 2025.
 - FastCLIP: A Suite of Optimization Techniques to Accelerate CLIP Training with Limited Resources.
   [[abs]](https://arxiv.org/abs/2407.01445)
   [[code]](https://github.com/Optimization-AI/fast_clip)
