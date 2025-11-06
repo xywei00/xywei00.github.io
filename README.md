@@ -25,6 +25,7 @@ My research interest lies in Machine Learning.
 - Email: x{my_last_name}@tamu.edu
 - [GitHub](https://github.com/xywei00)
 - [Google Scholar](https://scholar.google.com/citations?user=7iGaeB0AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/xiyuan-wei-21378229a/)
 
 
 ## Publications
