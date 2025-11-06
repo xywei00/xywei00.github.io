@@ -30,6 +30,10 @@ My research interest lies in Machine Learning.
 ## Publications
 
 (Asterisk denotes equal contribution)
+- Advancing Interpretability of CLIP Representations with Concept Surrogate Model.
+  [[abs](https://openreview.net/forum?id=KxoPiQ03BT)]
+  <br />Nhat Hoang-Xuan, Xiyuan Wei, Wanli Xing, Tianbao Yang, My T. Thai
+  <br />*39th Conference on Neural Information Processing Systems*, 2025.
 - Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws.
   [[abs](https://proceedings.mlr.press/v267/wei25f.html)]
   [[code](https://github.com/Optimization-AI/DRRho-CLIP)]
