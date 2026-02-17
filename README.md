@@ -31,6 +31,10 @@ My research interest lies in Machine Learning.
 ## Publications
 
 (Asterisk denotes equal contribution)
+- A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization
+  [[abs](https://arxiv.org/abs/2602.02877)]
+  <br />**Xiyuan Wei**\*, Linli Zhou\*, Bokun Wang, Chih-Jen Lin, Tianbao Yang
+  <br />*arXiv preprint*, 2026.
 - Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP
   [[abs](https://arxiv.org/abs/2601.09859)]
   <br />Anant Mehta, **Xiyuan Wei**, Xingyu Chen, Tianbao Yang
