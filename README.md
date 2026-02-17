@@ -61,6 +61,10 @@ My research interest lies in Machine Learning.
   [[abs](https://proceedings.mlr.press/v235/yang24ad.html)]
   <br />Ming Yang\*, **Xiyuan Wei**\*, Tianbao Yang, Yiming Ying.
   <br />*Proceedings of the 41st International Conference on Machine Learning* (**ICML**), 2024.
+- An Accelerated Variance-Reduced Conditional Gradient Sliding Algorithm for First-order and Zeroth-order Optimization
+  [[abs](https://arxiv.org/abs/2109.08858)]
+  <br />**Xiyuan Wei**, Bin Gu, Heng Huang
+  <br />*arXiv preprint*, 2021.
 - Black-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity.
   [[abs](https://jmlr.org/papers/v22/20-611.html)]
   <br />Bin Gu, **Xiyuan Wei**, Shangqian Gao, Ziran Xiong, Cheng Deng, Heng Huang.
