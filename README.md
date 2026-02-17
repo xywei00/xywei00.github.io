@@ -32,9 +32,9 @@ My research interest lies in Machine Learning.
 
 (Asterisk denotes equal contribution)
 - NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization
-  [[abs](https://arxiv.org/abs/2511.08417)]
+  [[abs](https://openreview.net/forum?id=WoMMSVZHfP)]
   <br />**Xiyuan Wei**, Chih-Jen Lin, Tianbao Yang
-  <br />*arXiv preprint*, 2025.
+  <br />*40th International Conference on Learning Representations* (**ICLR**), 2026.
 - Advancing Interpretability of CLIP Representations with Concept Surrogate Model.
   [[abs](https://openreview.net/forum?id=KxoPiQ03BT)]
   <br />Nhat Hoang-Xuan, **Xiyuan Wei**, Wanli Xing, Tianbao Yang, My T. Thai
