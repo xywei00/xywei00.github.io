@@ -47,6 +47,10 @@ My research interest lies in Machine Learning.
   [[abs](https://openreview.net/forum?id=KxoPiQ03BT)]
   <br />Nhat Hoang-Xuan, **Xiyuan Wei**, Wanli Xing, Tianbao Yang, My T. Thai
   <br />*39th Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
+- AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-Rays
+  [[abs](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_2)]
+  <br />Chenlang Yi, Zizhan Xiong, Qi Qi, **Xiyuan Wei**, Girish Bathla, Ching-Long Lin, Bobak J. Mortazavi, Tianbao Yang
+  <br />*28th International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
 - Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws.
   [[abs](https://proceedings.mlr.press/v267/wei25f.html)]
   [[code](https://github.com/Optimization-AI/DRRho-CLIP)]
