@@ -31,6 +31,10 @@ My research interest lies in Machine Learning.
 ## Publications
 
 (Asterisk denotes equal contribution)
+- Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP
+  [[abs](https://arxiv.org/abs/2601.09859)]
+  <br />Anant Mehta, **Xiyuan Wei**, Xingyu Chen, Tianbao Yang
+  <br />*arXiv preprint*, 2026.
 - NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization
   [[abs](https://openreview.net/forum?id=WoMMSVZHfP)]
   <br />**Xiyuan Wei**, Chih-Jen Lin, Tianbao Yang
