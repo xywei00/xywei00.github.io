@@ -33,42 +33,53 @@ My research interest lies in Machine Learning.
 (Asterisk denotes equal contribution)
 - A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization
   [[paper](https://arxiv.org/abs/2602.02877)]
+  [[code](https://github.com/Optimization-AI/SCENT)]
   <br />**Xiyuan Wei**\*, Linli Zhou\*, Bokun Wang, Chih-Jen Lin, Tianbao Yang
-  <br />*arXiv preprint*, 2026.
+  <br />(**ICML**) *43rd International Conference on Machine Learning*, 2026.
+
 - Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP
   [[paper](https://arxiv.org/abs/2601.09859)]
   <br />Anant Mehta, **Xiyuan Wei**, Xingyu Chen, Tianbao Yang
   <br />*arXiv preprint*, 2026.
+
 - NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization
   [[paper](https://openreview.net/forum?id=WoMMSVZHfP)]
+  [[code](https://github.com/Optimization-AI/NeuCLIP)]
   <br />**Xiyuan Wei**, Chih-Jen Lin, Tianbao Yang
   <br />(**ICLR**) *40th International Conference on Learning Representations*, 2026.
+
 - Advancing Interpretability of CLIP Representations with Concept Surrogate Model.
   [[paper](https://openreview.net/forum?id=KxoPiQ03BT)]
   <br />Nhat Hoang-Xuan, **Xiyuan Wei**, Wanli Xing, Tianbao Yang, My T. Thai
   <br />(**NeurIPS**) *39th Conference on Neural Information Processing Systems*, 2025.
+
 - AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-Rays
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_2)]
   <br />Chenlang Yi, Zizhan Xiong, Qi Qi, **Xiyuan Wei**, Girish Bathla, Ching-Long Lin, Bobak J. Mortazavi, Tianbao Yang
   <br />(**MICCAI**) *28th International Conference on Medical Image Computing and Computer Assisted Intervention*, 2025.
+
 - Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws.
   [[paper](https://proceedings.mlr.press/v267/wei25f.html)]
   [[code](https://github.com/Optimization-AI/DRRho-CLIP)]
   <br />**Xiyuan Wei**, Ming Lin, Fanjiang Ye, Fengguang Song, Liangliang Cao, My T. Thai, Tianbao Yang.
   <br />(**ICML Spotlight**) *42nd International Conference on Machine Learning*, 2025.
+
 - FastCLIP: A Suite of Optimization Techniques to Accelerate CLIP Training with Limited Resources.
   [[paper](https://arxiv.org/abs/2407.01445)]
   [[code](https://github.com/Optimization-AI/fast_clip)]
   <br />**Xiyuan Wei**, Fanjiang Ye, Ori Yonay, Xingyu Chen, Baixi Sun, Dingwen Tao, Tianbao Yang.
   <br />*arXiv preprint*, 2024.
+
 - Stability and Generalization of Stochastic Compositional Gradient Descent Algorithms.
   [[paper](https://proceedings.mlr.press/v235/yang24ad.html)]
   <br />Ming Yang\*, **Xiyuan Wei**\*, Tianbao Yang, Yiming Ying.
   <br />(**ICML**) *41st International Conference on Machine Learning*, 2024.
+
 - An Accelerated Variance-Reduced Conditional Gradient Sliding Algorithm for First-order and Zeroth-order Optimization
   [[paper](https://arxiv.org/abs/2109.08858)]
   <br />**Xiyuan Wei**, Bin Gu, Heng Huang
   <br />*arXiv preprint*, 2021.
+
 - Black-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity.
   [[paper](https://jmlr.org/papers/v22/20-611.html)]
   <br />Bin Gu, **Xiyuan Wei**, Shangqian Gao, Ziran Xiong, Cheng Deng, Heng Huang.
