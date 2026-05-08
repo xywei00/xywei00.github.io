@@ -37,6 +37,11 @@ My research interest lies in Machine Learning.
   <br />**Xiyuan Wei**\*, Linli Zhou\*, Bokun Wang, Chih-Jen Lin, Tianbao Yang
   <br />(**ICML**) *43rd International Conference on Machine Learning*, 2026.
 
+- Statistical Consistency and Generalization of Contrastive Representation Learning
+  [[paper](https://arxiv.org/abs/2605.02116)]
+  <br />Yuanfan Li, **Xiyuan Wei**, Tianbao Yang, Yiming Ying
+  <br />(**ICML**) *43rd International Conference on Machine Learning*, 2026.
+
 - Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP
   [[paper](https://arxiv.org/abs/2601.09859)]
   <br />Anant Mehta, **Xiyuan Wei**, Xingyu Chen, Tianbao Yang
